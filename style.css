@@ -1,0 +1,9 @@
+@import url("banner.css");
+@import url("liste.css");
+@import url("dessins.css");
+@import url("form.css");
+@import url("footer.css");
+
+body{
+	background:linear-gradient(#f44336, #FF9C6B);
+}
